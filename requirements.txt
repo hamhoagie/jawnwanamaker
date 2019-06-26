@@ -4,7 +4,7 @@ ExifRead==2.1.2
 Flask==0.12.2
 future==0.16.0
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2>=2.10.1
 MarkupSafe==1.0
 numpy==1.14.0
 packbits==0.6
